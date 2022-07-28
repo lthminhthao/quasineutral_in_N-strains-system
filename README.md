@@ -12,4 +12,4 @@ The code used in my papers are in repositories:
 - Paper-2_Chapter-3: selection_in_2-strains-system
 - Paper-3_Chapter-4: No simulations
 
-This repository has all my remaining codes using in my Ph.D. thesis.
+This repository has all my remaining codes used in my Ph.D. thesis.

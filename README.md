@@ -1,5 +1,6 @@
 # quasineutral_in_N-strains-system
-Code for my Ph.D. Thesis. My thesis can be found here: https://hal.archives-ouvertes.fr/LMPT/tel-03612183
+Code for my Ph.D. Thesis: "Multiple Timescales in Microbial Interactions".
+My thesis can be found here: https://hal.archives-ouvertes.fr/LMPT/tel-03612183
 
 My thesis has:
 - 3 chapters (which are three papers of mine and my supervisors), 
